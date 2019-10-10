@@ -1,1 +1,1 @@
-console.log("Intekhab")
+console.log("manty")
